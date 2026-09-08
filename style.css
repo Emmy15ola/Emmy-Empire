@@ -5,14 +5,14 @@
 }
 
 :root {
-  --navy: #071a33;
-  --navy-2: #0b2342;
-  --navy-3: #102d50;
-  --gold: #d4af37;
-  --gold-light: #f2d675;
-  --gold-dark: #a88920;
-  --text: #f7f4ea;
-  --muted: #c5c7cd;
+--navy: #06152b;
+--navy-2: #0b1f3a;
+--navy-3: #102b4c;
+--gold: #d4af37;
+--gold-light: #f5d77a;
+--gold-dark: #9c7a18;
+--text: #f8f3e3;
+--muted: #b9b9b9;
   --line: rgba(212, 175, 55, 0.22);
 }
 
